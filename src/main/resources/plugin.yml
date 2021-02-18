@@ -1,0 +1,3 @@
+name: DiscordChat
+version: 1.0
+main: io.github.maxheyn.discordchat.DiscordChat
