@@ -1,3 +1,9 @@
 name: DiscordChat
+description: Use Discord webhooks to send chat messages from your Minecraft server to your Discord server.
 version: 1.0
 main: io.github.maxheyn.discordchat.DiscordChat
+
+commands:
+  dcrl:
+    usage: /<command>
+    description: Reloads DiscordChat Config

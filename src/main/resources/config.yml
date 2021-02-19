@@ -1,1 +1,12 @@
 webhookUrl: replace_me_with_your_webhook_url_please
+serverStartMessage: The server is now online!
+serverStopMessage: The server is now offline.
+playerHeadIsometric: true
+playerLoginToasts: 
+  - Howdy neighbor!
+  - Good to see you online!
+  - Another long day of mining and crafting ahead of us!
+playerLogoutToasts:
+  - Sad to see you go so soon...
+  - See you next time!
+  - Auf Wiedersehen!
